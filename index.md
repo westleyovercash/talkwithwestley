@@ -12,7 +12,7 @@ title: Home
 </div>
 
 <div class="hero-image">
-<img src="/assets/css/images/westley-overcash-talk-with-westley-ucitel-anglicky.jpg" alt="Westley Overcash - English Teacher">
+<img src="/assets/css/images/westley-overcash-talk-with-westley-ucitel-anglicky.jpg" alt="Westley Overcash - soukromý učitel angličtiny v Praze">
 </div>
 
 </div>
@@ -27,4 +27,4 @@ Každá hodina je postavená na vašich potřebách — diskrétně, podle vaše
 
 **Pro profesionály:** Komunikační koučink pro klíčové chvíle nebo pravidelná praxe.
 
-[Get in touch](/contact)
+Napište mi na **wes@talkwithwestley.com** a domluvíme si první lekci.
