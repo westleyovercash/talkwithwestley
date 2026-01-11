@@ -2,10 +2,6 @@
 layout: default
 title: Home
 ---
----
-layout: default
-title: Home
----
 <div class="hero-section">
 <div class="hero-text" markdown="1">
 # TALK WITH<br/>WESTLEY
