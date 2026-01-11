@@ -25,7 +25,7 @@ title: Home
 
 Angličtina není jen o gramatice. Jde o sebevědomí, přítomnost a schopnost vyjádřit své myšlenky jasně.
 
-Provázím studenty skutečnými změnami — od sportovní trenérky, která dnes trénuje zahraniční klienty v angličtině, přes lékaře, který sebevědomě odcestoval na Nový Zéland, až po žáka, který se zlepšil z trojky na jedničku.
+Provázím studenty skutečnými změnami — od sportovního trenéra, který dnes trénuje zahraniční klienty v angličtině, přes lékařku, která sebevědomě odcestovala na Nový Zéland, až po žáka, který se zlepšil z trojky na jedničku.
 
 Každá hodina je postavená na vašich potřebách — diskrétně, podle vašeho času. Dohodneme se i česky, pokud něco potřebujete upřesnit.
 
