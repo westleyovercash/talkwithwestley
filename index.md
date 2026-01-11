@@ -10,7 +10,7 @@ title: Home
 </p>
 </div>
 <div class="hero-image">
-<img src="{{ site.baseurl }}/assets/images/westley-overcash-talk-with-westley-ucitel-anglicky.jpg" alt="Westley Overcash - soukromý učitel angličtiny v Praze">
+<img src="/assets/images/westley-overcash-talk-with-westley-ucitel-anglicky.jpg" alt="Westley Overcash - soukromý učitel angličtiny v Praze">
 </div>
 </div>
 
