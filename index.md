@@ -21,8 +21,6 @@ title: Home
 
 </div>
 
-Westley Overcash je jazykový mentor, který nabízí individuální lekce angličtiny zaměřené na sebevědomou komunikaci, jasné vyjadřování a praktické dovednosti pro skutečné situace.
-
 *Jestli jste tu díky doporučení některého z mých studentů—děkuji. A vítejte.*
 
 Angličtina není jen o gramatice. Jde o sebevědomí, přítomnost a schopnost vyjádřit své myšlenky jasně.
