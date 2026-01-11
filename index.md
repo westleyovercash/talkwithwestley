@@ -27,4 +27,4 @@ Každá hodina je postavená na vašich potřebách — diskrétně, podle vaše
 
 **Pro profesionály:** Komunikační koučink pro klíčové chvíle nebo pravidelná praxe.
 
-Napište mi na **wes@talkwithwestley.com** a domluvíme si první lekci.
+Napište mi na **wes@wessence.com** a domluvíme si první lekci.
