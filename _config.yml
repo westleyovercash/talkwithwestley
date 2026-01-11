@@ -3,16 +3,11 @@ email: wes@wessence.com
 description: Westley Overcash je jazykový mentor, který nabízí individuální lekce angličtiny zaměřené na sebevědomou komunikaci, jasné vyjadřování a praktické dovednosti pro skutečné situace.
 url: "https://talkwithwestley.com"
 baseurl: ""
-
 author:
   name: Westley Overcash
-  twitter: westleyovercash
-
-image: "assets/css/images/westley-overcash-talk-with-westley-ucitel-anglicky.jpg"
-
+image: "assets/images/westley-overcash-talk-with-westley-ucitel-anglicky.jpg"
 timezone: Europe/Prague
 markdown: kramdown
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
