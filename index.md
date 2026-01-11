@@ -2,7 +2,11 @@
 layout: default
 title: Home
 ---
-<div class="hero-section" markdown="1">
+---
+layout: default
+title: Home
+---
+<div class="hero-section">
 <div class="hero-text" markdown="1">
 # TALK WITH<br/>WESTLEY
 <p style="font-size: 1.5rem; font-weight: 700; margin: 0 0 2rem 0; line-height: 1.2;">
