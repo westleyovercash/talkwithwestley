@@ -2,23 +2,16 @@
 layout: default
 title: Home
 ---
-
 <div class="hero-section" markdown="1">
-
 <div class="hero-text" markdown="1">
-
 # TALK WITH<br/>WESTLEY
-
 <p style="font-size: 1.5rem; font-weight: 700; margin: 0 0 2rem 0; line-height: 1.2;">
   Spojte se.<br/>Učte se.<br/>Prosperujte.
 </p>
-
 </div>
-
 <div class="hero-image">
-<img src="/assets/css/images/westley-overcash-talk-with-westley-ucitel-anglicky.jpg" alt="Westley Overcash - soukromý učitel angličtiny v Praze">
+<img src="{{ site.baseurl }}/assets/images/westley-overcash-talk-with-westley-ucitel-anglicky.jpg" alt="Westley Overcash - soukromý učitel angličtiny v Praze">
 </div>
-
 </div>
 
 *Jestli jste tu díky doporučení některého z mých studentů—děkuji. A vítejte.*
